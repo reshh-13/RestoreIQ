@@ -93,12 +93,5 @@ Restoration Activity
 Restoration History Updated
 ```
 
-##  User Roles
-
-- **Administrator:** Manages artifacts, specialists, assessment reviews, and restoration task assignments.
-- **Employee:** Submits damage assessments, uploads artifact images, and adds notes.
-- **Conservation Specialist:** Handles assigned restoration activities and updates restoration history.
-
-
-##  Developed By
-**Reshma S**  
+Developed By
+*Reshh* 
